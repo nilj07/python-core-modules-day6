@@ -1,0 +1,8 @@
+EmployeeID,Name,Age,Department,Salary,StartDate,social
+1,Alice,29,HR,50000,1/15/2020,t
+2,Bob,35,IT,65000,7/22/2019,t
+3,Charlie,32,Finance,60000,12/1/2018,t
+4,David,28,IT,50000,3/10/2021,t
+5,Eva,28,HR,52000,6/25/2020,t
+6,Frank,40,Finance,80000,9/13/2017,t
+7,Nil,23,IT,,1/20/2025,t
